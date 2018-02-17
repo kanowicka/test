@@ -3,7 +3,7 @@
 1. Jeden
 2. Dwa
 3. Trzy
-4. cztery 
+4. Cztery 
 
 ---
 
